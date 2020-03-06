@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shrug_emoji/static/css/main.ae942628.chunk.css",
+    "main.js": "/shrug_emoji/static/js/main.c8e23c35.chunk.js",
+    "main.js.map": "/shrug_emoji/static/js/main.c8e23c35.chunk.js.map",
+    "runtime-main.js": "/shrug_emoji/static/js/runtime-main.70d9476f.js",
+    "runtime-main.js.map": "/shrug_emoji/static/js/runtime-main.70d9476f.js.map",
+    "static/js/2.145f1b74.chunk.js": "/shrug_emoji/static/js/2.145f1b74.chunk.js",
+    "static/js/2.145f1b74.chunk.js.map": "/shrug_emoji/static/js/2.145f1b74.chunk.js.map",
+    "index.html": "/shrug_emoji/index.html",
+    "precache-manifest.249e49b81731e676fe677fc2cb113363.js": "/shrug_emoji/precache-manifest.249e49b81731e676fe677fc2cb113363.js",
+    "service-worker.js": "/shrug_emoji/service-worker.js",
+    "static/css/main.ae942628.chunk.css.map": "/shrug_emoji/static/css/main.ae942628.chunk.css.map",
+    "static/js/2.145f1b74.chunk.js.LICENSE.txt": "/shrug_emoji/static/js/2.145f1b74.chunk.js.LICENSE.txt",
+    "static/media/shrug.jpg": "/shrug_emoji/static/media/shrug.bf221a28.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d9476f.js",
+    "static/js/2.145f1b74.chunk.js",
+    "static/css/main.ae942628.chunk.css",
+    "static/js/main.c8e23c35.chunk.js"
+  ]
+}
